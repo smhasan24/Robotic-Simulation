@@ -1,6 +1,8 @@
 
 
 # Autonomous Robot Simulation  
+![Autonomous Robot Demo](https://github.com/smhasan24/Robotic-Simulation/blob/main/converted_video.gif)
+
 
 This project simulates an autonomous robot navigating a terrain while avoiding obstacles and handling slopes. It uses Unity and C# to implement sensor-based decision-making and realistic motion control.  
 
